@@ -5,6 +5,9 @@
 - 📫 How to reach me -> email: kushanku@ualberta.ca, [LinkedIn](https://www.linkedin.com/in/kushghosh/), [website](https://www.kushghosh.com/)
 - 🎓 Check out my -> [Google Scholar](https://scholar.google.com/citations?user=b_g0yzgAAAAJ&hl=en) and [Researchgate](https://www.researchgate.net/profile/Kushankur-Ghosh)
 
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeuralClassifier&show_icons=true&theme=radical)
+
 <!---
 NeuralClassifier/NeuralClassifier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
