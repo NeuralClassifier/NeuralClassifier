@@ -6,7 +6,7 @@
 - 🎓 Check out my -> [Google Scholar](https://scholar.google.com/citations?user=b_g0yzgAAAAJ&hl=en) and [Researchgate](https://www.researchgate.net/profile/Kushankur-Ghosh)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeuralClassifier&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeuralClassifier&show_icons=true&theme=radical&hide_rank=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralClassifier&hide_progress=true)
 
