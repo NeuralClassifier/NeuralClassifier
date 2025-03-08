@@ -7,7 +7,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NeuralClassifier&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralClassifier&hide_progress=true&exclude_repo=null)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NeuralClassifier&hide_progress=true&exclude_repo=null&rank_icon=github)
 
 <!---
 NeuralClassifier/NeuralClassifier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
